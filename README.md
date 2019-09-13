@@ -2,6 +2,13 @@
 
 <img src= 'https://www.innofied.com/wp-content/uploads/2018/12/2018-12-06.jpg' />
 
+## Team Member
+- Rizal
+- Zidni
+- Ari
+- Aulia
+- Falih
+
 ## Required
 
 that is required to be installed
@@ -10,7 +17,7 @@ that is required to be installed
 - Emulator
 
 ## Clone or download
-- `$ git clone https://github.com/rizal271/SERVISIN-React-Native.git`
+- `$ git clone https://github.com/auliarampit/SERVISIN-React-Native.git`
 - `$ cd SERVISIN-React-Native`
 - `$ npm install`
 
